@@ -1,0 +1,1 @@
+{"description":"Minimal placeholder to claim the one free Abasthan Web Service slot.","engines":{"node":">=18"},"main":"server.js","name":"abasthan-sample","scripts":{"start":"node server.js"},"version":"1.0.0"}
